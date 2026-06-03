@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, i'm Behnia
+
+*The crows assert that a single crow could destroy the heavens. This is certainly true, but it proves nothing against the heavens, because heaven means precisely: the impossibility of crows.
 
 <!--
 **Behniash/Behniash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
